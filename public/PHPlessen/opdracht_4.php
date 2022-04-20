@@ -12,4 +12,4 @@ echo '<h1>Het vierde element van de array $priem is: </h1>';
 EINDE VAN JOUW PHPCODE
 ****************************/
 include('opdracht_eind.php');
-?>
+?>-
