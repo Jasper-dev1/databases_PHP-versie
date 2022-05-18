@@ -5,4 +5,4 @@ $weer = array('Beheerder'=>'Kees', 'Locatie' => 'Veendam', 'ID' => '123');
 echo '<br>' .$weer['Beheerder'].'is de eigenaar van'.$weer['ID'];
 print_r($weer);
 
-?>
+?>   
